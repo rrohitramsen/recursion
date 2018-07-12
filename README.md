@@ -1,5 +1,5 @@
-# recursion
-Coding Problems based on recursion
+# Recursion Algorithms & Problems implementations in Java
+## Coding Problems based on recursion
 * Exponential
 * IsPalindrome
 * NChooseK
